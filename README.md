@@ -1,6 +1,4 @@
 # Recommendation-System-Final-Assignment
-Recommendation System Final Assignment by Prof. Matsumura
-
 
 functions for assignment:
 
